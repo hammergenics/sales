@@ -1,0 +1,157 @@
+{
+    "data": [
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQTF",
+            "SYMBOL": "AMNR",
+            "PRICE": 102.003,            
+            "VOLUME": 48,
+            "DATE": "2024-03-05"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQTF",
+            "SYMBOL": "EQMX",
+            "PRICE": 144.25,            
+            "VOLUME": 68,
+            "DATE": "2024-02-28"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQTF",
+            "SYMBOL": "GOLD",
+            "PRICE": 1.5820,            
+            "VOLUME": 6320,
+            "DATE": "2024-03-05"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQBR",
+            "SYMBOL": "AFLT",
+            "PRICE": 40.32,            
+            "VOLUME": 250,
+            "DATE": "2024-03-05"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQBR",
+            "SYMBOL": "POSI",
+            "PRICE": 2339.8,            
+            "VOLUME": 4,
+            "DATE": "2024-03-05"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQIF",
+            "SYMBOL": "RU000A0JT4S1",
+            "PRICE": 3079,            
+            "VOLUME": 3,
+            "DATE": "2024-03-11"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQTF",
+            "SYMBOL": "TDIV",
+            "PRICE": 11.07,            
+            "VOLUME": 130,
+            "DATE": "2024-03-11"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQBR",
+            "SYMBOL": "SVCB",
+            "PRICE": 19.275,            
+            "VOLUME": 500,
+            "DATE": "2024-03-13"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQBR",
+            "SYMBOL": "SVCB",
+            "PRICE": 19.285,            
+            "VOLUME": 700,
+            "DATE": "2024-03-29"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQTF",
+            "SYMBOL": "EQMX",
+            "PRICE": 150.4,            
+            "VOLUME": 33,
+            "DATE": "2024-04-01"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQTF",
+            "SYMBOL": "TDIV",
+            "PRICE": 11.31,            
+            "VOLUME": 740,
+            "DATE": "2024-04-01"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQTF",
+            "SYMBOL": "TDIV",
+            "PRICE": 11.31,            
+            "VOLUME": 442,
+            "DATE": "2024-04-03"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQBR",
+            "SYMBOL": "UGLD",
+            "PRICE": 0.9988,            
+            "VOLUME": 10000,
+            "DATE": "2024-05-13"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQBR",
+            "SYMBOL": "MVID",
+            "PRICE": 190.9,            
+            "VOLUME": 50,
+            "DATE": "2024-05-17"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQBR",
+            "SYMBOL": "DELI",
+            "PRICE": 331.00,
+            "VOLUME": 5,
+            "DATE": "2024-05-21"
+        },
+        {
+            "ENGINE": "stock",
+            "MARKET": "shares",
+            "BOARD": "TQBR",
+            "SYMBOL": "ALRS",
+            "PRICE": 80.00,
+            "VOLUME": 60,
+            "DATE": "2024-05-21"
+        },
+        {
+            "ENGINE": "",
+            "MARKET": "",
+            "BOARD": "",
+            "SYMBOL": "MONEY",
+            "PRICE": 485.67,            
+            "VOLUME": 0,
+            "DATE": ""
+        }
+    ]
+}
